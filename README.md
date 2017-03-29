@@ -5,7 +5,7 @@ Ferrametnas de controle de Versão:
 * RCV
 * CVs
 * Source safe
-* SVN
+* Clear case
 * Mercurial
 * GitHub
 * Bitbucket
