@@ -7,5 +7,5 @@ Ferrametnas de controle de Versão:
 * Source safe
 * SVN
 * Mercurial
-* GitHub
+* Perforce
 * Bitbucket
