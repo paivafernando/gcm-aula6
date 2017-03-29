@@ -3,9 +3,13 @@
 Ferrametnas de controle de Versão:
 
 * RCV
+* Perforce
 * CVs
 * Source safe
-* Clear case
+* Bazar
+* SVN
 * Mercurial
-* Perforce
+* Clear Case
+* Git
+* Visual Studio Team Services
 * Bitbucket
